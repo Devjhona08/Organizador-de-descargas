@@ -34,6 +34,7 @@ Script: `organizar.py`
 ▶️ **Ejecución**:
 ```bash
 python organizarAutomatico.py
+```
 
 ## Créditos
 
